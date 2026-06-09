@@ -48,5 +48,5 @@ Apache Hadoop HDFS was used for distributed storage, while Apache Spark was used
 
 ## Author
 
-Pradeep Rajkumar R
+Pradeep Rajkumar R  
 J Nithiasri
