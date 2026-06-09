@@ -46,7 +46,7 @@ Apache Hadoop HDFS was used for distributed storage, while Apache Spark was used
 - Classification models for purchase behavior
 - Customer segmentation and recommendation analysis
 
-## Author
+## Authors
 
 Pradeep Rajkumar R  
 J Nithiasri
