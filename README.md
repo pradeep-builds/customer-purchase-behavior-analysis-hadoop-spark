@@ -1,4 +1,4 @@
-# Customer Purchase Behavior Analysis using Hadoop and Apache Spark
+# Customer Purchase Behavior Analysis using Hadoop and Apache Spark.
 
 ## Overview
 
